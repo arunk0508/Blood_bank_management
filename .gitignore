@@ -1,0 +1,14 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+
+
+# Ignore composer dependencies (if used)
+config.php
+.env
+vendor/
+
+
+
+

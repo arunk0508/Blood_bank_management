@@ -1,0 +1,48 @@
+.blood-certification{
+    outline-style:dashed;
+    outline-width:2px;
+    outline-color:#999;
+    width:700px;
+    height:620px;
+    margin-left:400px;
+    /* margin-top:5px; */
+    
+}
+.welcome{
+    
+    margin-left:630px;
+}
+.blood-certificate{
+        font-size:30px;
+        color:red;
+        margin-top:30px;
+        margin-left:200px;
+        font-weight: bolder;
+}
+.reward{
+    font-size:20px;
+    text-align: center;
+    margin-left:20px;
+    margin-top:30px;
+    font-weight: bold;
+
+}
+.note{
+    font-size:17px;
+    
+    margin-top:20px;
+    text-align: center;
+
+}
+.date{
+    font-size:17px;
+    margin-left:20px;
+    margin-top:180px;
+
+}   
+.chairman{
+    font-size:17px;
+    margin-left:20px;
+    margin-top:10px;
+
+}   
