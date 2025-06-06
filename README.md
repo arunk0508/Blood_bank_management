@@ -39,7 +39,7 @@ Choose the file:
 pgsql
 Copy
 Edit
-/database/blood_bank.sql
+/database/bloodbank.sql
 Click Go
 
 This will import the necessary tables and dummy data.
@@ -53,7 +53,7 @@ Edit
 $servername = "localhost";
 $username = "root";
 $password = "";      // Add your MySQL password if set
-$database = "blood_bank";
+$database = "bloodbank";
 
 ## 🚀Run the Project
 Move the folder to:
