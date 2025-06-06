@@ -1,4 +1,4 @@
-🩸 Blood Bank Management System
+## 🩸 Blood Bank Management System
 A web-based Blood Bank Management System designed to streamline blood donor registrations, blood requests, and blood inventory management. Built with PHP, HTML/CSS, and MySQL as the backend database.
 
 ## 📌 Features
@@ -19,13 +19,14 @@ A web-based Blood Bank Management System designed to streamline blood donor regi
 | XAMPP      | Localhost Server    |
 
 
-💾 Setup Instructions
+## 💾 Setup Instructions
 ✅ 1. Clone the Repository
 bash
 Copy
 Edit
-git clone https://github.com/your-username/blood-bank-management.git
+git clone https://github.com/arunk0508/Blood_bank_management.git
 cd blood-bank-management
+
 ✅ 2. Import the Database
 Start XAMPP and run Apache and MySQL
 
@@ -38,13 +39,13 @@ Choose the file:
 pgsql
 Copy
 Edit
-/database/blood_bank.sql
+/database/bloodbank.sql
 Click Go
 
 This will import the necessary tables and dummy data.
 
 ✅ 3. Configure DB Connection
-In the file dbconnect.php, update these values if needed:
+In the file config.php, update these values if needed:
 
 php
 Copy
@@ -52,10 +53,11 @@ Edit
 $servername = "localhost";
 $username = "root";
 $password = "";      // Add your MySQL password if set
-$database = "blood_bank";
+$database = "bloodbank";
 
-🚀✅ 4. Run the Project
+## 🚀Run the Project
 Move the folder to:
+
 C:\xampp\htdocs\
 
 Visit:
