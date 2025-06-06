@@ -24,8 +24,9 @@ A web-based Blood Bank Management System designed to streamline blood donor regi
 bash
 Copy
 Edit
-git clone https://github.com/your-username/blood-bank-management.git
+git clone https://github.com/arunk0508/Blood_bank_management.git
 cd blood-bank-management
+
 ✅ 2. Import the Database
 Start XAMPP and run Apache and MySQL
 
