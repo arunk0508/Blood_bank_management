@@ -45,7 +45,7 @@ Click Go
 This will import the necessary tables and dummy data.
 
 ✅ 3. Configure DB Connection
-In the file dbconnect.php, update these values if needed:
+In the file config.php, update these values if needed:
 
 php
 Copy
